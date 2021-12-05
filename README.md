@@ -10,4 +10,10 @@ A new Dynamo Charlotee Version with the following optimizations:
 - Hello World Project Setup on IDE Start.
 - New Background and Font colors for better visualization.
 
+**Version 2.0:**
+
+![alt text](https://github.com/jc-juarez/dynamocharlotte_ide/blob/main/dynamo_charlotee_ide_v2.PNG?raw=true)
+
+**Version 1.0:**
+
 ![alt text](https://github.com/jc-juarez/dynamocharlotte_ide/blob/main/dynamo_charlotte_ide_program.PNG?raw=true)
