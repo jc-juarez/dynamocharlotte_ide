@@ -1,5 +1,5 @@
 # Dynamo Charlotte IDE
-A Desktop IDE for running Dynamo Charlotte Programs. Check the 'dynamocharlotte' respository for more information about the language. Download the **Dynamo Charlotte IDE v2.0.exe** file and start coding in Dynamo Charlotte from your computer **today!**
+A Desktop IDE for running Dynamo Charlotte Programs. Check the 'dynamocharlotte' respository (https://github.com/jc-juarez/dynamocharlotte) for more information about the language. Download the **Dynamo Charlotte IDE v2.0.exe** file and start coding in Dynamo Charlotte from your computer **today!**
 
 # Version 2.0 Update
 A new Dynamo Charlotee Version with the following optimizations:
