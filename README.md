@@ -8,7 +8,8 @@ A new Dynamo Charlotee Version with the following optimizations:
 - Numbered Lines for better visualization.
 - Errors Segmentation: Compile and Runtime.
 - Hello World Project Setup on IDE Start.
-- New Background and Font colors for better visualization.
+- New Font, Background Color and Font Color for better visualization.
+- Optimized App Window Design.
 
 **Version 2.0:**
 
